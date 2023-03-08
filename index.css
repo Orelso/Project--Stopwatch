@@ -1,55 +1,54 @@
 html {
-    margin: 0;
-    padding: 0;
-    background-image: url("https://clipart.world/wp-content/uploads/2020/06/the-60-seconds-stopwatch-4.jpg");
-    background-repeat: no-repeat;
-    font-family: 'Comic Sans MS';	
-    background-position: center;
-    background-attachment: fixed;
-    width: 35vw; 
-    height: 16vw;
+  margin: 0;
+  padding: 0;
+  font-family: "Comic Sans MS";
+  background-position: center;
+  background-attachment: fixed;
+  width: 35vw;
+  height: 16vw;
 }
 
-
 #title-box {
-    font-size: 25px;
-    width: 700px;
-    height: 200px;
-    color: white;
-    position: relative;
-    left: 19.5%;
+  font-size: 25px;
+  width: 700px;
+  height: 200px;
+  color: white;
+  position: relative;
+  left: 19.5%;
 }
 
 #white-box {
-    width: 35vw; 
-    height: 16vw;
-        /* width: 700px;
+  width: 35vw;
+  height: 16vw;
+  /* width: 700px;
         height: 290px; */
-    background-color: white;
-    position: relative;
-    margin-top: 220px;
-    left: 620px;
-    align-items: center;
-    text-align: center;
-    border-radius: 25px;
+  background-color: white;
+  position: relative;
+  margin-top: 220px;
+  left: 620px;
+  align-items: center;
+  text-align: center;
+  border-radius: 25px;
 }
 
-#bluebox, p, button {
-    font-size: 75px;
+#bluebox,
+p,
+button {
+  font-size: 75px;
 }
 
-button{
-    border-radius: 25px;
+button {
+  border-radius: 25px;
 }
 
 .red-button {
-    background-color: red;
+  background-color: red;
 }
 
-.green-button { 
-    background-color: green;
+.green-button {
+  background-color: green;
 }
 
 .yellow-button {
-    background-color: yellow;
+  background-color: yellow;
 }
